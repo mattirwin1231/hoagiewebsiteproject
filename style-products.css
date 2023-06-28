@@ -1,0 +1,79 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#logo {
+  display: inline;
+  margin-top: auto;
+  margin-bottom: auto;
+  clear: both;
+  float: left;
+  height: 100px; 
+}
+
+#name {
+  margin-top: auto;
+  margin-bottom: auto; 
+  font-size: 20px;
+  display: inline;
+  float: left;
+  text-align: center;
+  color: lightgoldenrodyellow;
+  
+}
+
+#menu {
+  display: inline; 
+  padding-top: 14px;
+  float: right;
+  color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 25px;
+}
+
+a:link {
+  color: cornsilk;
+}
+
+a:visited {
+  color: lightsteelblue;
+}
+  
+a:hover{
+  color: pink;
+}
+
+
+hr {
+  clear: both;
+}
+
+.sandwich_pic {
+  display: block;
+  width: 500px;
+  height: 250px;
+  align-content: center;
+  padding: 10px;
+}
+
+#products {
+  text-align: center;
+}
+
+
+button {
+  font-size: 20px;
+  padding: 15px 32px;
+  align-content: center;
+  vertical-align: top;
+  text-align: center;
+}
+
+
+td {
+  height: 50px;
+  vertical-align: top;
+}

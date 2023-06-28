@@ -1,0 +1,99 @@
+body {
+  background-color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr {
+  display: block;
+  margin: auto;
+  width: 100%; 
+  clear: both;
+}
+
+#store {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 50px; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%;
+  object-fit: contain;
+}
+
+
+
+a:link {
+  color: cornsilk;
+}
+
+a:visited {
+  color: lightsteelblue;
+}
+  
+a:hover{
+  color: pink;
+}
+
+hr {
+  clear: both;
+}
+
+#logo {
+  display: inline;
+  margin-top: auto;
+  margin-bottom: auto;
+  clear: both;
+  float: left;
+  height: 100px; 
+}
+
+#name {
+  margin-top: auto;
+  margin-bottom: auto; 
+  font-size: 20px;
+  display: inline;
+  float: left;
+  text-align: center;
+  color: lightgoldenrodyellow;
+  
+}
+
+#menu {
+  display: inline; 
+  padding-top: 14px;
+  float: right;
+  color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 25px;
+}
+
+#location{
+  font-size: 25px;
+}
+
+#email{
+  font-size: 25px;
+}
+#phone{
+  font-size: 25px;
+}
+
+#media{
+  font-size: 25px;
+}
+
+h2 {
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+  color: white;
+}
+
+.socials{
+  width: 5%;
+  height: 5%;
+}
